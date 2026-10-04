@@ -1,0 +1,11 @@
+{
+  "title": "Badr_Mouline.com",
+  "description": "Professional portfolio website showcasing expertise and experience with integrated LinkedIn profile for seamless networking and career growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
